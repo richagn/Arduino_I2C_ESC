@@ -40,6 +40,7 @@ THE SOFTWARE.
 #include "Arduino_I2C_ESC.h"
 
 #define ESC_ADDRESS 0x29
+#define ESC_ADDRESS 0x2a
 
 Arduino_I2C_ESC motor(ESC_ADDRESS);
 
